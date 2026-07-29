@@ -15,3 +15,5 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript (DOM manipulation, local storage)</li>
+
+<img src ="C:\Users\ABC\Pictures\Screenshots\Screenshot (6).png"  alt = "to-do-app-screenshot"/>
