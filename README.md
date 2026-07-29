@@ -16,5 +16,5 @@
 <li>CSS</li>
 <li>JavaScript (DOM manipulation, local storage)</li>
 
-<img src ="<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/6786c231-b533-4ec1-a97c-a5bf743078a4" />
-"  alt = "to-do-app-screenshot"/>
+"<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/6786c231-b533-4ec1-a97c-a5bf743078a4" />
+
